@@ -1,0 +1,328 @@
+Localidade	Latitude	Longitude	Long.Tempo
+Abóbada	38N43	9W20	0h37m20s
+Abrantes	39N28	8W12	0h32m48s
+Abrunheira	38N46	9W21	0h37m24s
+A-Da-Beja	38N47	9W14	0h36m56s
+Aguava - Cacém	38N46	9W18	0h37m12s
+Águeda	40N34	8W27	0h33m48s
+Albarraque	38N46	9W21	0h37m24s
+Albergaria-A-Velha	40N42	8W29	0h33m56s
+Albogas	38N51	9W15	0h37m00s
+Albufeira	37N05	8W15	0h33m00s
+Alcabideche	38N44	9W24	0h37m36s
+Alcácer do Sal	38N22	8W30	0h34m00s
+Alcains	39N55	7W27	0h29m48s
+Alcobaça	39N33	8W59	0h35m56s
+Alcochete	38N45	8W58	0h35m52s
+Alcoitão	38N44	9W24	0h37m36s
+Alcoutim	37N28	7W28	0h29m52s
+Aldeia de Paio Pires	38N38	9W05	0h36m20s
+Aldeia Nova de Santo Bento	37N55	7W25	0h29m40s
+Algés	38N42	9W13	0h36m52s
+Algueirão - Mem Martins	38N48	9W20	0h37m20s
+Alhos Vedros	38N39	9W02	0h36m08s
+Aljezur	37N19	8W48	0h35m12s
+Aljustrel	37N52	8W10	0h32m40s
+Almada	38N41	9W09	0h36m36s
+Almargem do Bispo	38N51	9W16	0h37m04s
+Almeida	40N43	6W54	0h27m36s
+Almeirim	39N12	8W38	0h34m32s
+Almoçageme	38N48	9W28	0h37m52s
+Almodôvar	37N31	8W04	0h32m16s
+Alpiarça	39N15	8W35	0h34m20s
+Alter do Chão	39N12	7W40	0h30m40s
+Alvaiázere	39N49	8W23	0h33m32s
+Alvarinhos	38N54	9W22	0h37m28s
+Alverca	38N54	9W02	0h36m08s
+Alvito	38N15	7W59	0h31m56s
+Amadora	38N45	9W14	0h36m56s
+Amareleja	38N12	7W14	0h28m56s
+Amares	41N38	8W21	0h33m24s
+Amora	38N37	9W07	0h36m28s
+Apelação	38N49	9W08	0h36m32s
+Arco de Baúlhe	41N29	7W58	0h31m52s
+Areeiro	38N39	9W12	0h36m48s
+Areia	38N43	9W08	0h36m32s
+Arneiro dos Marinheiros	38N51	9W25	0h37m40s
+Arrentelha	38N38	9W06	0h36m24s
+Arronches	39N07	7W17	0h29m08s
+Atalaia	38N42	8W55	0h35m40s
+Aveiro	40N38	8W39	0h34m36s
+Aviz	39N03	7W53	0h31m32s
+Azambuja	39N04	8W52	0h35m28s
+Azenhas do Mar	38N50	9W28	0h37m52s
+Azoia	38N46	9W29	0h37m56s
+Baratã	38N48	9W19	0h37m16s
+Barcarena	38N44	9W17	0h37m08s
+Barcelos	41N32	8W37	0h34m28s
+Barranco do Velho	37N14	7W56	0h31m44s
+Barrancos	38N08	6W59	0h27m56s
+Barreiro	38N39	9W04	0h36m16s
+Batalha	39N39	8W50	0h35m20s
+Beja	38N01	7W52	0h31m28s
+Belas	38N47	9W16	0h37m04s
+Belmonte	40N21	7W21	0h29m24s
+Benavente	38N39	8W48	0h35m12s
+Bombarral	39N16	9W09	0h36m36s
+Borba	38N48	7W27	0h29m48s
+Boticas	41N41	7W40	0h30m40s
+Braga	41N33	8W26	0h33m44s
+Bragança	41N49	6W45	0h27m00s
+Bucelas	38N54	9W07	0h36m28s
+Cabeço de Montachique	38N54	9W11	0h36m44s
+Cacilhas	38N41	9W09	0h36m36s
+Caldas da Rainha	39N24	9W08	0h36m32s
+Caminha	41N52	8W50	0h35m20s
+Campo Maior	31N09	7W04	0h28m16s
+Caneças	38N49	9W14	0h36m56s
+Cantanhede	40N21	8W36	0h34m24s
+Cantribana	38N53	9W25	0h37m40s
+Caparica	38N40	9W12	0h36m48s
+Carcavelos	38N41	9W20	0h37m20s
+Carcavelos	38N53	9W14	0h36m56s
+Carnaxide	38N43	9W15	0h37m00s
+Cartaxo	39N09	8W47	0h35m08s
+Casainhos	38N53	9W10	0h36m40s
+Cascais	38N42	9W25	0h37m40s
+Castanheira de Pêra	40N00	8W13	0h32m52s
+Castelo Branco	39N49	7W30	0h30m00s
+Castro de Daire	40N54	7W56	0h31m44s
+Castro Martim	37N13	7W26	0h29m44s
+Castro Verde	37N42	8W05	0h32m20s
+Caxias	38N42	9W16	0h37m04s
+Celorico da Beira	40N38	7W23	0h29m32s
+Chamusca	39N21	8W29	0h33m56s
+Charneca	38N44	9W27	0h37m48s
+Chaves	41N44	7W28	0h29m52s
+Cheleiros	38N53	9W20	0h37m20s
+Coimbra	40N12	8W25	0h33m40s
+Colares	38N48	9W27	0h37m48s
+Constânzia	39N28	8W20	0h33m20s
+Corroios	38N38	9W09	0h36m36s
+Coruche	38N57	8W31	0h34m04s
+Costa da Caparica	38N38	9W14	0h36m56s
+Cova da Piedade	38N40	9W10	0h36m40s
+Covilhã	40N17	7W30	0h30m00s
+Covões	38N50	9W20	0h37m20s
+Cuba	38N10	7W53	0h31m32s
+Elvas	38N53	7W10	0h28m40s
+Entroncamento	39N28	8W28	0h33m52s
+Ericeira	38N59	9W25	0h37m40s
+Ermidas	38N00	8W23	0h33m32s
+Espinho	41N00	8W39	0h34m36s
+Esposende	41N32	8W47	0h35m08s
+Estarreja	40N45	8W34	0h34m16s
+Estoril	38N42	9W23	0h37m32s
+Estremoz	38N51	7W35	0h30m20s
+Évora	38N34	7W54	0h31m36s
+Fafe	41N27	8W10	0h32m40s
+Fanhões	38N53	9W09	0h36m36s
+Faro	37N01	7W56	0h31m44s
+Fátima	39N37	8W39	0h34m36s
+Ferreira do Alentejo	38N03	8W07	0h32m28s
+Figueira da Foz	40N09	8W52	0h35m28s
+Fogueteiro	38N37	9W07	0h36m28s
+Fontanelas	38N51	9W26	0h37m44s
+Forte do Magoito	38N52	9W27	0h37m48s
+Foz Giraldo	40N00	7W43	0h30m52s
+Freixal	38N54	9W09	0h36m36s
+Frielas	38N49	9W09	0h36m36s
+Fundão	40N08	7W30	0h30m00s
+Galamares	38N48	9W25	0h37m40s
+Góis	40N09	8W07	0h32m28s
+Gondomar	41N09	8W32	0h34m08s
+Gouveia	38N50	9W26	0h37m44s
+Grândola	38N10	8W34	0h34m16s
+Granja	38N51	9W06	0h36m24s
+Guarda	40N32	7W16	0h29m04s
+Guimarães	41N27	8W18	0h33m12s
+Idanha-A-Nova	39N55	7W14	0h28m56s
+Ilhavo	40N36	8W40	0h34m40s
+Janas	38N49	9W26	0h37m44s
+Lagos	37N06	8W40	0h34m40s
+Lamego	41N06	7W49	0h31m16s
+Leião	38N44	9W18	0h37m12s
+Leiria	39N45	8W48	0h35m12s
+Linda-A-Velha	38N43	9W14	0h36m56s
+Linhó	38N46	9W23	0h37m32s
+Lisboa	38N43	9W10	0h36m45s
+Loulé	37N08	8W02	0h32m08s
+Lourel de Baixo	38N49	9W22	0h37m28s
+Loures	38N50	9W10	0h36m40s
+Lourinhã	39N14	9W19	0h37m16s
+Lourosa	40N19	7W56	0h31m44s
+Lousã	40N07	8W15	0h33m00s
+Lousa	38N53	9W12	0h36m48s
+Macão	39N33	8W00	0h32m00s
+Macedo dos Cavaleiros	41N32	6W58	0h27m52s
+Maceira	38N52	9W19	0h37m16s
+Mafra	38N56	9W20	0h37m20s
+Magoito	38N52	9W26	0h37m44s
+Maia	41N14	8W37	0h34m28s
+Malveira	38N45	9W27	0h37m48s
+Mangualde	40N36	7W46	0h31m04s
+Manique de Baixo	38N44	9W22	0h37m28s
+Marinha Grande	39N45	8W56	0h35m44s
+Matosinhos	41N11	8W42	0h34m48s
+Mealhada	40N22	8W27	0h33m48s
+Meda	40N58	7W16	0h29m04s
+Melgaço	42N07	8W16	0h33m04s
+Mercês	38N47	9W19	0h37m16s
+Mértola	37N38	7W40	0h30m40s
+Mira	40N26	8W44	0h34m56s
+Miranda do Douro	41N30	6W16	0h25m04s
+Mirandela	41N29	7W11	0h28m44s
+Mogadouro	41N20	6W39	0h26m36s
+Moita	38N39	8W59	0h35m56s
+Moncão	42N05	8W29	0h33m56s
+Monchique	37N19	8W33	0h34m12s
+Monforte	39N03	7W26	0h29m44s
+Montalegre	41N49	7W48	0h31m12s
+Montargil	39N05	8W10	0h32m40s
+Monte Estoril	38N42	9W24	0h37m36s
+Montelavar	38N51	9W20	0h37m20s
+Montemor	38N49	9W12	0h36m48s
+Montemor -O-Novo	38N39	8W13	0h32m52s
+Montemor-O-Velho	40N10	8W41	0h34m44s
+Montijo	38N42	8W58	0h35m52s
+Mora	38N56	8W10	0h32m40s
+Moscavide	38N47	9W06	0h36m24s
+Moura	38N08	7W27	0h29m48s
+Mucifal	38N48	9W26	0h37m44s
+Murça	41N24	7W27	0h29m48s
+Murtal	38N42	9W22	0h37m28s
+Murtosa	40N44	8W38	0h34m32s
+Nafarros	38N39	9W25	0h37m40s
+Nazaré	39N36	9W04	0h36m16s
+Negrais	38N53	9W17	0h37m08s
+Nisa	39N31	7W39	0h30m36s
+Odemira	37N36	8W38	0h34m32s
+Odivelas	38N47	9W11	0h36m44s
+Odrinhas	38N53	9W22	0h37m28s
+Oeiras	38N41	9W21	0h37m24s
+Olhão	37N02	8W50	0h35m20s
+Olival Basto	38N47	9W10	0h36m40s
+Ourique	37N39	8W13	0h32m52s
+Ovar	40N52	8W38	0h34m32s
+Paço de Arcos	38N42	9W17	0h37m08s
+Palhais	38N37	9W03	0h36m12s
+Pancas	38N48	8W55	0h35m40s
+Parede	38N41	9W21	0h37m24s
+Pedras Salgadas	41N32	7W36	0h30m24s
+Pedrogão Grande	39N55	8W09	0h32m36s
+Penafiel	41N12	8W17	0h33m08s
+Penedomo	40N59	7W24	0h29m36s
+Penela	40N02	8W23	0h33m32s
+Peniche	39N21	9W23	0h37m32s
+Pero Pinheiro	38N51	9W20	0h37m20s
+Peso da Régua	41N10	7W47	0h31m08s
+Pinhal Novo	38N38	8W55	0h35m40s
+Pinheiro de Loures	38N50	9W12	0h36m48s
+Pinhel	40N46	7W04	0h28m16s
+Pinteus	38N52	9W09	0h36m36s
+Pombal	39N55	8W38	0h34m32s
+Pontão	39N55	8W22	0h33m28s
+Ponte da Barca	41N48	8W25	0h33m40s
+Ponte de Sor	39N15	8W01	0h32m04s
+Ponte do Lima	41N46	8W35	0h34m20s
+Portalegre	39N17	7W26	0h29m44s
+Portel	38N18	7W42	0h30m48s
+Portimão	37N08	8W32	0h34m08s
+Porto	41N11	8W36	0h34m24s
+Porto de Mós	39N36	8W39	0h34m36s
+Porto Salvo	38N43	9W18	0h37m12s
+Póvoa de Santa Iria	38N52	9W04	0h36m16s
+Póvoa de Santo Adrião	38N48	9W10	0h36m40s
+Póvoa de Varzim	41N23	8W46	0h35m04s
+Praia da Cruz Quebrada	38N42	9W14	0h36m56s
+Praia das Maçãs	38N50	9W28	0h37m52s
+Proença-A-Nova	38N44	7W55	0h31m40s
+Queluz	38N45	9W15	0h37m00s
+Ranholas	38N47	9W22	0h37m28s
+Redondo	38N39	7W33	0h30m12s
+Reguengos de Monsaraz	38N25	7W32	0h30m08s
+Rio de Mouro	38N46	9W20	0h37m20s
+Rosairinho	38N40	9W01	0h36m04s
+Sabugal	40N21	7W05	0h28m20s
+Sabugo	38N49	9W18	0h37m12s
+Sacavém	38N47	9W06	0h36m24s
+Sacotes	38N48	9W20	0h37m20s
+Sagres	37N00	8W56	0h35m44s
+Salvaterra de Magos	39N01	8W48	0h35m12s
+Samouco	38N43	9W00	0h36m00s
+Santa Comba Dão	40N24	8W08	0h32m32s
+Santa Iria de Azóia	38N51	9W05	0h36m20s
+Santa Luzia	37N44	8W24	0h33m36s
+Santarém	39N14	8W41	0h34m44s
+Santiago do Caçem	38N01	8W42	0h34m48s
+Santo António da Charneca	38N37	9W02	0h36m08s
+Santo Tirso	41N21	8W28	0h33m52s
+São Braz de Alportel	37N09	7W53	0h31m32s
+São João da Madeira	40N54	8W30	0h34m00s
+São João das Lampas	38N52	9W24	0h37m36s
+São Julião da Barra	38N40	9W21	0h37m24s
+São Julião do Tojal	38N51	9W08	0h36m32s
+São Pedro do Estoril	38N42	9W22	0h37m28s
+São Pedro do Sul	40N45	8W04	0h32m16s
+Sarilhos Grandes	38N41	8W58	0h35m52s
+Sarilhos Pequenos	38N41	8W59	0h35m56s
+Sátão	40N44	7W44	0h30m56s
+Segura	39N50	6W59	0h27m56s
+Seia	40N25	7W42	0h30m48s
+Seixal	38N38	9W06	0h36m24s
+Serpa	37N56	7W36	0h30m24s
+Sertã	39N48	8W06	0h32m24s
+Sesimbra	38N26	9W06	0h36m24s
+Setúbal	38N32	8W54	0h35m36s
+Silves	37N11	8W26	0h33m44s
+Sines	37N57	8W52	0h35m28s
+Sinfães	41N04	8W05	0h32m20s
+Sintra	38N48	9W23	0h37m32s
+Sobrado	41N02	8W16	0h33m04s
+Soure	40N03	8W38	0h34m32s
+Sousel	38N57	7W40	0h30m40s
+Tabuaço	41N07	7W34	0h30m16s
+Tarouca	41N00	7W40	0h30m40s
+Tavira	37N07	7W39	0h30m36s
+Terrugem	38N51	9W20	0h37m20s
+Tires	38N43	9W21	0h37m24s
+Tomar	39N36	8W25	0h33m40s
+Torrão	38N18	8W13	0h32m52s
+Torre de Moncorvo	41N10	7W03	0h28m12s
+Torres Novas	39N29	8W32	0h34m08s
+Torres Vedras	39N06	9W16	0h37m04s
+Trafaria	38N40	9W14	0h36m56s
+Trajouce	38N44	9W20	0h37m20s
+Trancoso	40N47	7W21	0h29m24s
+Ulgueira	38N47	9W28	0h37m52s
+Unhos	38N50	9W07	0h36m28s
+Vale dos Lobos	38N49	9W17	0h37m08s
+Valença	42N02	8W38	0h34m32s
+Valongo	41N11	8W30	0h34m00s
+Varzea de Sintra	38N49	9W24	0h37m36s
+Venda Nova	41N40	7W58	0h31m52s
+Vendas Novas	38N41	8W28	0h33m52s
+Vialonga	38N52	9W05	0h36m20s
+Viana do Alentejo	38N20	8W00	0h32m00s
+Viana do Castelo	41N42	8W50	0h35m20s
+Vidigueira	38N13	7W48	0h31m12s
+Vieira do Minho	41N39	8W09	0h32m36s
+Vila de Rei	39N40	8W09	0h32m36s
+Vila do Bispo	37N05	8W55	0h35m40s
+Vila do Conde	41N21	8W45	0h35m00s
+Vila Flor	41N18	7W09	0h28m36s
+Vila Franca de Xira	38N57	8W59	0h35m56s
+Vila Nova de Famalicão	41N25	8W32	0h34m08s
+Vila Nova de Foz Côa	41N05	7W12	0h28m48s
+Vila Nova de Gaia	41N08	8W37	0h34m28s
+Vila Nova de Ourém	39N39	8W35	0h34m20s
+Vila Real	41N18	7W45	0h31m00s
+Vila Real de Santo António	37N12	7W25	0h29m40s
+Vilar Formoso	40N37	6W50	0h27m20s
+Vila Velha de Rodão	39N38	7W40	0h30m40s
+Vila Verde	41N39	8W26	0h33m44s
+Vila Verde	38N50	9W22	0h37m28s
+Vila Viçosa	38N47	8W13	0h32m52s
+Vinhais	41N50	7W00	0h28m00s
+Viseu	40N39	7W55	0h31m40s
+Zambujal	38N52	9W07	0h36m28s
